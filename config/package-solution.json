@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "followed-sites-client-side-solution",
+    "id": "9153bdab-301f-49eb-94f7-f6fa1c8e8073",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/MyFollowedSites.sppkg"
+  }
+}
